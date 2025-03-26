@@ -1,9 +1,9 @@
 # Personal Expense Tracker
 
-## Overview
+## Overview 📌
 Developed a Personal Expense Tracker to manage daily expenses and income efficiently. The system allows users to add daily expenses, categorize them, and generate reports such as total spending, average monthly expenses, and savings.
 
-## Features
+## Features ✨
 - Add and track daily expenses
 - Categorize expenses (e.g., food, entertainment, bills, travel)
 - Calculate total spending
@@ -12,14 +12,14 @@ Developed a Personal Expense Tracker to manage daily expenses and income efficie
 - Designed a responsive UI using HTML, CSS, and Bootstrap
 - Optimized data handling with Hibernate for efficient database interactions
 
-## Technologies Used
+## Technologies Used 🛠️
 - Programming Languages: Java, C
 - Frontend: HTML, CSS, Bootstrap
 - Backend: Java with Hibernate
 - Database: MySQL
 - Data Visualization: JFreeChart
 
-## Installation & Usage
+## Installation & Usage 🚀
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/expense-tracker.git
@@ -34,7 +34,7 @@ Developed a Personal Expense Tracker to manage daily expenses and income efficie
    java -jar target/expense-tracker.jar
    ```
 
-## File Structure
+## File Structure 📂
 ```
 expense-tracker/
 │── src/                 # Source code
@@ -42,16 +42,16 @@ expense-tracker/
 │── README.md            # Project documentation
 ```
 
-## Future Enhancements
+## Future Enhancements 🔮
 - Implement a mobile-friendly version
 - Add support for multiple users
 - Integrate AI-driven expense prediction
 
-## Contributing
+## Contributing 🤝
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
+## License 📜
 This project is licensed under the MIT License.
 
-## Contact
+## Contact 📩
 For any queries, reach out via GitHub Issues.
